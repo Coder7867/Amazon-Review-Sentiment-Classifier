@@ -41,7 +41,7 @@ amazon-review-classifier/
 
 ### Confusion Matrix
 
-![Confusion Matrix](evaluation-1.png)
+![Confusion Matrix](Evaluation-1.png)
 
 - True Positives: 35,622
 - True Negatives: 35,244
@@ -50,7 +50,7 @@ amazon-review-classifier/
 
 ### ROC Curve
 
-![ROC Curve](evaluation-2.png)
+![ROC Curve](Evaluation-2.png)
 
 - ROC AUC: 0.96
 - Accuracy: ~89.3%
