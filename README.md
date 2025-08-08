@@ -7,6 +7,15 @@ This project uses machine learning to classify Amazon product reviews as Positiv
 
 Build a sentiment classifier that analyzes Amazon product reviews and predicts whether the sentiment is positive or negative.
 
+## Dataset
+
+This project uses the [Amazon Product Reviews dataset](https://www.kaggle.com/datasets/datafiniti/amazon-product-reviews) from Kaggle. It contains thousands of product reviews with associated metadata such as star ratings and review text.
+
+- Source: Kaggle
+- Type: Text + Ratings
+- Size: ~100,000 reviews
+- Use Case: Sentiment classification based on review text
+
 ## Project Structure
 
 ```
@@ -43,7 +52,7 @@ amazon-review-classifier/
 
 ![Confusion Matrix](Evaluation-1.png)
 
-- True Positives: 35,622
+- True Positives: 35,822
 - True Negatives: 35,244
 - False Positives: 4,652
 - False Negatives: 4,282
