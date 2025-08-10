@@ -1,4 +1,4 @@
-markdown
+
 # Amazon Review Sentiment Classifier
 
 This project uses machine learning to classify Amazon product reviews as Positive or Negative based on the review text. It includes data preprocessing, model training, evaluation, and a Streamlit web app for interactive predictions.
